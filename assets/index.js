@@ -56033,14 +56033,14 @@ const SX = (n,e)=>pS(n) ? new wX(e,{
     company_name: "25B Info. Tech Specialist",
     icon: QX,
     iconBg: "#383E56",
-    date: "March 2009 - Dec 2011",
+    date: "Oct 2020 - Present",
     points: ["Led deployment and management of BnCPN equipment.", "Revolutionized Network Operations (NETOPS) with a holistic Service Desk Management framework.", "Integrated COTS equipment and managed WAN surveillance and management."]
 }, {
     title: "Hydro Engineering",
     company_name: "Systems Administrator",
     icon: ZX,
     iconBg: "#E6DEDD",
-    date: "December 2011 - Feb 2020",
+    date: "Aug 2021 - Nov 2023",
     points: ["Enhanced IT infrastructure to achieve 99.9% uptime.", "Developed software for wireless heatmap analysis, improving network performance.", "Managed and upgraded Netgate & Cisco Firewalls, implementing advanced security protocols."]
 }, {
     title: "Hydro Engineering",
